@@ -1,0 +1,98 @@
+/*selector universal para todas las etiquetas*/
+/*
+*{
+    
+    border: 0px solid red;
+     /*la 1ra etiqueta es el body*/
+    
+
+     #imagen {
+        width: 100%;
+        background-image: url("../image/logo.jpg");
+        background-repeat: no-repeat;
+        position: relative;
+        height: 270px; /*para el alto de la caja*/
+        background-position-x: 450px;
+        }
+
+
+
+
+    #contenido{
+        width: 96%;
+        margin-left: 10px;
+        padding: 5px 20px ;
+       border-width:  3px;
+      
+       border-radius: 60px 60px 60px 60px;
+       float: right;
+       background-color:greenyellow;
+    }
+
+
+#menu1{
+    margin-top: 10px; /*espacio entre tablas*/
+    width: 25%;
+    float: left;
+    background-color:lightskyblue;
+    margin-left: 10px; /*margenes*/
+    padding: 2px 20px ;
+
+
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+#section2
+{
+    width: 64%;  
+    border-width:  thin;
+    height: 70px; /*para el alto de la caja*/
+    float: right;
+   
+
+  
+}
+
+
+
+
+
+ #pie1{
+    margin-top: 55px; /*espacio entre tablas*/
+    width: 90%; 
+    margin-left: 25px;
+    padding: 10px 35px;
+
+    border-right-style: groove;
+    border-left-style: groove;
+    border-block-end-style: groove;
+    border-top-style: groove;
+ }
+
+
+
+  
+ 
+
+    .logo{
+        width: 330px;
+        height: 330px;
+    }
+
+   body{
+    background-color: azure;
+        background-repeat: no-repeat;
+        background-position: center; 
+    }
+
+    #menuPrincipal
+    {
+        width: 100%;
+
+        float: left;
+    }
+
+    #pie{
+        margin-top: 10px; /*margenes*/
+    }
