@@ -6,3 +6,59 @@
     height: 270px; /*para el alto de la caja*/
     background-position-x: 30px;
     }
+
+
+
+    #col1{
+        margin-top: 10px; /*espacio entre tablas*/
+        width: 30%;
+        float: left;
+        background-color:lightskyblue;
+        margin-left: 10px; /*margenes*/
+        padding: 2px 20px ;
+    
+    
+        border-radius: 60px 60px 60px 60px;
+    
+    }
+
+    #col2{
+        margin-top: 10px; /*espacio entre tablas*/
+        width: 30%;
+        float: left;
+        background-color:lightskyblue;
+        margin-left: 10px; /*margenes*/
+        padding: 20px 20px ;
+    
+    
+        border-radius: 60px 60px 60px 60px;
+    background-color: cyan;
+    }
+
+
+    #col3{
+        margin-top: 10px; /*espacio entre tablas*/
+        width: 28%;
+        float: left;
+        background-color:lightskyblue;
+        margin-left: 10px; /*margenes*/
+        padding: 20px 20px ;
+    
+    background-color: greenyellow;
+        border-radius: 60px 60px 60px 60px;
+    
+    }
+
+
+    #pie{
+        width: 50%;
+        margin-top: 700px;
+        background-color:black;
+        border-radius: 60px 60px 60px 60px;
+        text-align: center; /*alinea el texto al centro*/
+       margin-left: 350px;
+    }
+
+    body{
+        background-color: azure;
+    }

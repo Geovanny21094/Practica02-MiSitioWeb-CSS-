@@ -63,14 +63,18 @@
     width: 90%; 
     margin-left: 25px;
     padding: 10px 35px;
-
+    text-align: center;
     border-right-style: groove;
     border-left-style: groove;
     border-block-end-style: groove;
     border-top-style: groove;
  }
 
-
+ body{
+    background-color: azure;
+        background-repeat: no-repeat;
+        background-position: center; 
+    }
 
   /*
  
@@ -80,11 +84,7 @@
         height: 330px;
     }
 
-   body{
-    background-color: azure;
-        background-repeat: no-repeat;
-        background-position: center; 
-    }
+  
 
     #menuPrincipal
     {
