@@ -64,10 +64,8 @@
     margin-left: 25px;
     padding: 10px 35px;
     text-align: center;
-    border-right-style: groove;
-    border-left-style: groove;
-    border-block-end-style: groove;
-    border-top-style: groove;
+    background-color: powderblue;
+    border-radius: 60px 60px 60px 60px;
  }
 
  body{
