@@ -48,3 +48,19 @@
     body{
         background-color: azure;
     }
+
+
+    a{
+        color: red;
+        font-weight: bold;
+       
+    }
+    
+    /*Destacamos el enlace cuando está
+       suspendido, activado
+       o enfocado*/
+    a:hover,
+    a:active,
+    a:focus {
+      color: darkred;
+      text-decoration: none;

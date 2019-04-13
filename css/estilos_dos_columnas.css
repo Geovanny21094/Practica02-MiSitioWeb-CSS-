@@ -36,9 +36,9 @@
     float: left;
     background-color:lightskyblue;
     margin-left: 10px; /*margenes*/
-    padding: 2px 20px ;
+    padding: 5px 20px ;
 
-
+   
     border-radius: 60px 60px 60px 60px;
 
 }
@@ -73,6 +73,62 @@
         background-repeat: no-repeat;
         background-position: center; 
     }
+
+
+
+    h1{
+color: black;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+text-decoration-style: solid;
+    }
+
+  
+
+
+
+    h2{
+        color: red;
+        font-size: 20px;
+        font-family: sans-serif;
+        text-decoration-style: solid;
+    }
+
+
+
+
+    h3{
+        color:chocolate;
+        font-size: 20px;
+        font-family: monospace;
+        text-decoration-style: solid;
+    }
+
+
+
+
+    h4{
+        color:black;
+        font-size: 15px;
+        font-family: cursive;
+        text-decoration-style: solid;
+    }
+
+a{
+    color: red;
+    font-weight: bold;
+   
+}
+
+/*Destacamos el enlace cuando está
+   suspendido, activado
+   o enfocado*/
+a:hover,
+a:active,
+a:focus {
+  color: darkred;
+  text-decoration: none;
+
 
   /*
  
