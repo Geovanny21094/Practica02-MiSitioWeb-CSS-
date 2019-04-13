@@ -1,0 +1,50 @@
+#imagen {
+    width: 100%;
+    background-image: url("../image/mk11s.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    height: 500px; /*para el alto de la caja*/
+    background-position-x: 40px;
+    }
+
+
+    #section1{
+        margin-top: 10px; /*espacio entre tablas*/
+        width: 45%;
+        float: left;
+        background-color:lightskyblue;
+        margin-left: 10px; /*margenes*/
+        padding: 2px 20px ;
+    
+    
+        border-radius: 60px 60px 60px 60px;
+    
+    }
+
+
+
+    #section2{
+        margin-top: 10px; /*espacio entre tablas*/
+        width: 45%;
+        float: left;
+        background-color:lightskyblue;
+        margin-left: 10px; /*margenes*/
+        padding: 20px 20px ;
+    
+    
+        border-radius: 60px 60px 60px 60px;
+    background-color: cyan;
+    }
+
+    #pie{
+        width: 50%;
+        margin-top: 600px;
+        background-color:black;
+        border-radius: 60px 60px 60px 60px;
+        text-align: center; /*alinea el texto al centro*/
+       margin-left: 350px;
+    }
+
+    body{
+        background-color: azure;
+    }
