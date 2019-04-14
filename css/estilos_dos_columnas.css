@@ -58,7 +58,7 @@
 
 
 
- #pie1{
+ #video{
     margin-top: 55px; /*espacio entre tablas*/
     width: 90%; 
     margin-left: 25px;
@@ -66,7 +66,22 @@
     text-align: center;
     background-color: powderblue;
     border-radius: 60px 60px 60px 60px;
+
  }
+
+
+ #pie{
+    margin-top: 55px; /*espacio entre tablas*/
+    width: 90%; 
+    margin-left: 15px;
+    padding: 8px 20px;
+    text-align: center;
+    background-color: greenyellow;
+    border-radius: 60px 60px 60px 60px;
+
+ }
+
+
 
  body{
     background-color: azure;
@@ -130,6 +145,7 @@ a:focus {
   text-decoration: none;
 
 
+  
   /*
  
 

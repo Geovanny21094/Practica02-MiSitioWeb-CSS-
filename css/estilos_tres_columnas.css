@@ -51,13 +51,15 @@
 
 
     #pie{
-        width: 50%;
-        margin-top: 700px;
-        background-color:black;
+        margin-top: 55px; /*espacio entre tablas*/
+        width: 90%; 
+        margin-left: 15px;
+        padding: 18px 20px;
+        text-align: center;
+        background-color: greenyellow;
         border-radius: 60px 60px 60px 60px;
-        text-align: center; /*alinea el texto al centro*/
-       margin-left: 350px;
-    }
+    
+     }
 
     body{
         background-color: azure;
@@ -76,4 +78,14 @@
     a:active,
     a:focus {
       color: darkred;
-      text-decoration: none;
+      text-decoration: none;}
+
+
+      #video{
+        width: 50%;
+        margin-top: 720px;
+        background-color:black;
+        border-radius: 60px 60px 60px 60px;
+        text-align: center; /*alinea el texto al centro*/
+       margin-left: 350px;
+    }

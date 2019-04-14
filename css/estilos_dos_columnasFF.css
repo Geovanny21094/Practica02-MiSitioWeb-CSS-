@@ -36,7 +36,7 @@
     background-color: cyan;
     }
 
-    #pie{
+    #video{
         width: 50%;
         margin-top: 550px;
         background-color:black;
@@ -64,3 +64,15 @@
     a:focus {
       color: darkred;
       text-decoration: none;
+    }
+
+    #pie{
+        margin-top: 55px; /*espacio entre tablas*/
+        width: 90%; 
+        margin-left: 15px;
+        padding: 18px 20px;
+        text-align: center;
+        background-color: greenyellow;
+        border-radius: 60px 60px 60px 60px;
+    
+     }

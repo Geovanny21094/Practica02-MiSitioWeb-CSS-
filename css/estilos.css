@@ -43,3 +43,73 @@ a:active,
 a:focus {
   color: darkred;
   text-decoration: none;
+}
+
+
+
+  #imagen {
+    width: 100%;
+    background-image: url("../image/cr1.jpg");
+    
+    background-repeat: no-repeat;
+    position: relative;
+    height: 300px; /*para el alto de la caja*/
+    background-position-x: 40px;
+    width: 300;
+    text-align: center;
+    }
+
+
+    #set1{
+        margin-top: 10px; /*espacio entre tablas*/
+        width: 45%;
+        float: left;
+        background-color:lightskyblue;
+        margin-left: 10px; /*margenes*/
+        padding: 2px 20px ;
+    
+    
+        border-radius: 60px 60px 60px 60px;
+    
+    }
+
+
+
+    #set2{
+        margin-top: 10px; /*espacio entre tablas*/
+        width: 45%;
+        float: left;
+        background-color:lightskyblue;
+        margin-left: 10px; /*margenes*/
+        padding: 20px 20px ;
+    
+    
+        border-radius: 60px 60px 60px 60px;
+    background-color: cyan;
+    }
+
+
+
+
+    #video{
+        margin-top: 650px; /*espacio entre tablas*/
+        width: 90%; 
+        margin-left: 25px;
+        padding: 10px 35px;
+        text-align: center;
+        background-color: powderblue;
+        border-radius: 60px 60px 60px 60px;
+    
+     }
+    
+    
+     #pie{
+        margin-top: 55px; /*espacio entre tablas*/
+        width: 90%; 
+        margin-left: 15px;
+        padding: 18px 20px;
+        text-align: center;
+        background-color: greenyellow;
+        border-radius: 60px 60px 60px 60px;
+    
+     }
