@@ -1,9 +1,9 @@
-# Practica01-Mi-Blog
+# Practica02-Uso de CSS
 
-Creando una website para la primera practica de Hypermedial
+Creando una website para la segunda practica de Hypermedial usando CSS
  
 
-<h1>Pratica 01</h1>
+<h1>Pratica 02</h1>
 
 <ul>
   <li> Crear la estructura de un archivo HTML usando css</li>
