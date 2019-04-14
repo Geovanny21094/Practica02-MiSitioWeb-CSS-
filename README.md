@@ -3,7 +3,7 @@
 Creando una website para la segunda practica de Hypermedial usando CSS
  
 
-<h1>Pratica 02</h1>
+<h1>Practica 02</h1>
 
 <ul>
   <li> Crear la estructura de un archivo HTML usando css</li>
